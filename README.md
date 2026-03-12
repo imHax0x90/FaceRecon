@@ -18,7 +18,9 @@ I designed it to work on my laptop unix-based system, for each time my device is
 
 ## Before running the program
 
-PLEASE NOTE: The program needs training, I mean I need 158 images of my face to train the model, so make sure to have enough pictures of your head in the database folder, and in multiple angles and places, and with different facial expressions. 
+PLEASE NOTE: The program needs training, I mean I need 158 images of my face to train the model, so make sure to have enough pictures of your head in the database folder, and in multiple angles and places, and with different facial expressions.
+
+**EVOLUTION TO COME** From video flow, creation and lateration of videos to ensure the creation of pictures through different angles and lightnings. Identification of biometric schemes.
 
 ## Running the program
 Once the previous step is done you can launch the training. Make sure to have placed the images in ``` ./images/originals/ ``` and then run the following command:
